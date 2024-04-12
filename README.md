@@ -1,3 +1,9 @@
+## How to start
+1. Assign DB_DATABASE with database/database.sqlite in your .env with an absolute path example: DB_DATABASE=D:/Dev/Projects/PAQT/Assignments/front-end/Form-picker-PAQT/database/database.sqlite
+2. npm i in terminal
+3. npm run dev
+4. If you don't see any games appear type php artisan migrate in powershell with the cd of the root of this project
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
