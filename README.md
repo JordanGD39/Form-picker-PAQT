@@ -1,5 +1,5 @@
 ## How to start
-1. Assign database/database.sqlite in your .env with an absolute path example: D:/Dev/Projects/PAQT/Assignments/front-end/Form-picker-PAQT/database/database.sqlite
+1. Assign DB_DATABASE with database/database.sqlite in your .env with an absolute path example: DB_DATABASE=D:/Dev/Projects/PAQT/Assignments/front-end/Form-picker-PAQT/database/database.sqlite
 2. npm i in terminal
 3. npm run dev
 4. If you don't see any games appear type php artisan migrate in powershell with the cd of the root of this project
